@@ -1,0 +1,22 @@
+{
+  "name": "readfile-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunxiaoju/readFile-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunxiaoju/readFile-node/issues"
+  },
+  "homepage": "https://github.com/sunxiaoju/readFile-node#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.4"
+  }
+}
