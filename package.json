@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sunxiaoju/readFile-node#readme",
   "devDependencies": {
-    "@types/node": "^15.12.4"
+    "@types/node": "^15.12.4",
+    "node-xlsx": "^0.16.1"
   }
 }
