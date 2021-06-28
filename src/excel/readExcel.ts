@@ -13,6 +13,9 @@ const sheetsList = [];
 
 xlsxSheets.forEach(sheet => {
   const list: [SheetDefine?] = [];
+
+  console.log('sheet名字', sheet.name);
+  
   // 每一个sheet的数据
   const sheetData = sheet.data;
   for (let i = 1; i < sheetData.length; i++){
@@ -35,3 +38,5 @@ console.log('=========================')
 console.log('excel文件信息', sheetsList);
 
 console.log('=========================')
+
+
